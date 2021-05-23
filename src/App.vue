@@ -15,7 +15,7 @@
       </div>
       <div class="date-time-wrapper">
         <footer class="col-xs grey-text light">
-          <span class="pull-left"> <span class="semi-bold">devo</span> is an <a href="https://github.com/karakanb/devo">open-source extension</a>. </span>
+          <span class="pull-left"> <span class="semi-bold">Cherry On Top News</span> is <a href="/> the welcome addition  media of trending desirables you love.</a>. </span>
 
           <div class="pull-right day-night-toggle flex items-center">
             <div style="margin-right: 12px">
